@@ -4,7 +4,7 @@ title: About Me
 permalink: /about
 ---
 
-# Nirvana's Portfolio
+# Let me introduce myself...
 
 Hi everyone, 
 I live in London and I currently work in Customer Operations in the financial services sector. 
